@@ -1,0 +1,6 @@
+{
+  "name": "Tetris Arcade - Endless & Level Rush",
+  "description": "Play classic arcade Tetris with Endless high-score mode, challenge levels, responsive WASD/ZQSD/Arrow controls, ghost pieces, and retro audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
